@@ -33,7 +33,7 @@ patterns = [
     r'_G'
 ]
 
-project_path = r'C:\GTAFXServer' # Path to the project folder
+project_path = r'C:\Users\Administrator\Desktop\UkendtRoleplay\txData\ARP_1337RP.base\resources' # Path to the project folder
 output_file = 'matches.txt'
 
 search_files(project_path, patterns, output_file)
